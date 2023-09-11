@@ -1,2 +1,1 @@
-# koja
 LPIA Tugu Koja
